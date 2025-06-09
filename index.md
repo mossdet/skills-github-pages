@@ -11,7 +11,7 @@ title: Welcome to my blog!
 - Statement b
 - Statement c
 
-'''
+```
 Some Code
-'''
+```
 
